@@ -49,7 +49,7 @@
 ## 🏆 Experience  
 
 **📌 Data Science Intern**  
-🗓️ **AI Varient, Bengaluru** (Aug 2024 - Jan 2025)  
+🗓️ **AI Varient, Bengaluru** (Aug 2024 - Mar 2025)  
 🔹 Worked on **real-world datasets** to build predictive models  
 🔹 Gained hands-on experience in **machine learning, data analysis, and visualization**  
 🔹 Utilized **Python, SQL, and Excel** for processing large datasets  
