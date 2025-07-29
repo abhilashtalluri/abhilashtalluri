@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 Experience  
+## 🏆 Training  
 
 **📌 Data Science Intern**  
 🗓️ **AI Varient, Bengaluru** (Aug 2024 - Mar 2025)  
